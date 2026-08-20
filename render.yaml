@@ -3,5 +3,5 @@ services:
     name: ai-tools-bharat
     runtime: static
     buildCommand: ""
-    staticPublishPath: "."
+    staticPublishPath: "public"
     pullRequestPreviewsEnabled: false

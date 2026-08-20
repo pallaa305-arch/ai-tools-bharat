@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: ai-tools-bharat
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: "."
+    pullRequestPreviewsEnabled: false
